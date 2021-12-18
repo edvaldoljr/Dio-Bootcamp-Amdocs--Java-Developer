@@ -1,53 +1,43 @@
 package desafios;
 
-/*
-* Novamente Júlio pede sua ajuda, ele esqueceu de um pequeno detalhe. Como o seu o programa anterior só informava
-* uma saudação, ele pediu que transformasse o grau do Sol/Lua em HH:MM:SS. Então caso aceite: dado um grau relativo
-* a posição do Sol/Lua, refaça o sistema só que agora além da saudação de cada período do dia, informe exatamente as
-* horas, os minutos e segundos.
-Entrada
-A entrada contem um pontos flutuantes M (0 ≥ M < 360) representando a posição, em graus,do Sol/Lua em relação a terra.
-*  Como eles andam em constante movimento seu programa receberá diversos casos a cada segundo(EOF).
-Saída
-Imprima qual período do dia ele se encontra: "Boa Tarde!!", "Boa Noite!!", "Bom Dia!!" e "De Madrugada!!", e na linhas
-* de baixo exiba as horas, minutos e segundos (HH:MM:SS).*/
+/**
+ * Hermione está criando um novo Vira Tempo especialmente para programadores.
+ * É impressionante as vantagens que ele oferece e o conforto pra codar que ele tem.
+ * O artefato ainda está em desenvolvimento e ele prometeu consertar os bugs e colocar uns apetrechos melhores e,
+ * em troca, pediu um sistema simples para o modo Standy Bay.
+ * O problema é que o artefato por si só sempre tem o ângulo de
+ * inclinação do Sol/Lua(de 0 a 360). Valendo um Vira Tempo, caso deseja aceitar:
+ * dada em grau da inclinação do Sol/Lua,
+ * informe em qual período do dia ele se encontra.
+ *
+ * Entrada
+ * A entrada contém um número inteiro M (0 ≤ M ≤ 360) representando o grau do Sol/Lua.
+ * Como a posição muda constantemente seu programa receberá diversos casos a cada segundo(EOF).
+ *
+ * Saída
+ * Imprima uma saudação referente ao período do dia que ele se encontra:
+ * "Boa Tarde!!", "Boa Noite!!", "Bom Dia!!" e "De Madrugada!!".
+ */
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class AMudanca {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         Scanner leitor = new Scanner(System.in);
+        String msg;
 
         while (leitor.hasNext()) {
-            double graus = leitor.nextDouble();
+            int graus = leitor.nextInt();
 
-            if (graus <= 360) {
-                if (graus < 90 || graus == 360) System.out.println("Bom Dia!!");
+            if (graus == 360 || graus >= 0 && graus < 90) msg = "Bom Dia!!";
+            else if (graus >= 90 && graus < 180) msg = "Boa Tarde!!";
+            else if (graus >= 180 && graus < 270) msg = "Boa Noite!!";
+            else msg = "De Madrugada!!";
 
-                else if (graus >= 90 && graus < 180) System.out.println("Boa Tarde!!");
-                else if (graus >= 180 && graus < 270) System.out.println("Boa Noite!!");
-                else System.out.println("De Madrugada!!");
-
-
-                Double horas;
-                if (graus >= 270) {
-                    horas = ((graus*24/360) + 6) - 24;
-                } else {
-                    horas = graus*24/360 +6;
-                }
-
-                Double minutos = (horas - (horas.intValue())) * 60.0;
-                Double segundos = ( minutos - (minutos.intValue())) * 60.0;
-
-                if (segundos > 59) {
-                    segundos = 0.0;
-                    minutos += 1.0;
-                }
-
-                System.out.printf("%02d:%02d:%02d%n", horas.intValue(), minutos.intValue(), segundos.intValue());
-            }
+            System.out.println(msg);
         }
     }
 }
