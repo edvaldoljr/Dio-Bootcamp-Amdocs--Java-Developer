@@ -14,80 +14,84 @@ Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para 
 
 ## Sequência de atividades/estudo do Bootcamp:
 
--  Boas-vindas ao Bootcamp Amdocs  Java Developer (1 hr)
+- [x]  Boas-vindas ao Bootcamp Amdocs  Java Developer (1 hr)
 
--  Bem-vindo à DIO (1 hr)
+- [x]  Bem-vindo à DIO (1 hr)
 
-- **Mentoria #1**: Aula Inaugural Bootcamp Amdocs (2 hr)
+- [x] **Mentoria #1**: Aula Inaugural Bootcamp Amdocs (2 hr)
 
--  Lógica de Programação Essencial (4 hr)
+- [x]  Lógica de Programação Essencial (4 hr)
 
--  Aprenda o que são Estruturas de Dados e Algoritmos (2 hr)
+- [x]  Aprenda o que são Estruturas de Dados e Algoritmos (2 hr)
 
--  Introdução ao Git e ao GitHub (5 hr)
+- [x]  Introdução ao Git e ao GitHub (5 hr)
 
-- Projetos ágeis com SCRUM (2 hr)
+- [x] Projetos ágeis com SCRUM (2 hr)
 
--  Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (1 hr)
+- [x]  Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (1 hr)
 
--  **Mentoria #2**: Como ser o próximo contratado da Amdocs (2 hr)
+- [x]  **Mentoria #2**: Como ser o próximo contratado da Amdocs (2 hr)
 
-- Linux: Introdução ao Sistema Operacional e Terminal (2 hr)
+- [x] Linux: Introdução ao Sistema Operacional e Terminal (2 hr)
 
-- Linux: Diretórios e Comandos Essenciais (2 hr)
+- [x] Linux: Diretórios e Comandos Essenciais (2 hr)
 
-- Linux: Fundamentos de Redes e Comandos Avançados (2 hr)
+- [x] Linux: Fundamentos de Redes e Comandos Avançados (2 hr)
 
-- Linux: Gerenciamento de Pacotes (2 hr)
+- [x] Linux: Gerenciamento de Pacotes (2 hr)
 
--  Dominando IDEs Java (4 hr)
+- [x]  Dominando IDEs Java (4 hr)
 
-- Introdução ao Ecossistema e Documentação java (2 hr)
+- [x] Introdução ao Ecossistema e Documentação java (2 hr)
 
-- Configurando Ambiente de Desenvolvimento Java no Linux (1 hr)
+- [x] Configurando Ambiente de Desenvolvimento Java no Linux (1 hr)
 
--  Variáveis, Tipos de Dados e Operadores Matemáticos em Java (2 hr)
+- [x]  Variáveis, Tipos de Dados e Operadores Matemáticos em Java (2 hr)
 
--  Lógica Condicional e Controle de Fluxos em Java (1 hr)
+- [x]  Lógica Condicional e Controle de Fluxos em Java (1 hr)
 
--  Estruturas de Repetição e Arrays em Java (3 hr)
+- [x]  Estruturas de Repetição e Arrays em Java (3 hr)
 
-- Reforçando o Conceito de Laços em Java (1 hr)
+- [x] Reforçando o Conceito de Laços em Java (1 hr)
 
-- Introdução a orientação a objetos com java (2 hr)
+- [x] Introdução a orientação a objetos com java (2 hr)
 
-- Implementando Collections e Streams com java (6 hr)
+- [x] Implementando Collections e Streams com java (6 hr)
 
-- Entrada e Saída de Arquivos (I/O) em java (4 hr)
+- [x] Entrada e Saída de Arquivos (I/O) em java (4 hr)
 
--  **Mentoria #3**: Como resolver os desafios de código (2 hr)
+- [x]  **Mentoria #3**: Como resolver os desafios de código (2 hr)
 
--  Resolvendo Desafios de Código em Java (1hr)
+- [x]  Resolvendo Desafios de Código em Java (1hr)
 
-- **Desafios Java 1 - Bootcamp Amdocs 3/3** (1 hr)
+- [x] **Desafios Java 1 - Bootcamp Amdocs 3/3** (1 hr)
 
-- **PROJETO Criando um Banco Digital com Java e Orientação a Objetos** (1 hr)
+- [x] **PROJETO Criando um Banco Digital com Java e Orientação a Objetos** (1 hr)
 
--  SQL SERVER - Criando suas primeiras consultas (4 hr)
+- [x]  SQL SERVER - Criando suas primeiras consultas (4 hr)
 
--  Modelando um banco de dados na prática com SQL SERVER (2 hr)
+- [x]  Modelando um banco de dados na prática com SQL SERVER (2 hr)
 
--  SQL Server: Boas práticas em bancos relacionais (2 hr)
+- [x]  SQL Server: Boas práticas em bancos relacionais (2 hr)
 
-- Introdução a APIs e métodos HTTP (2 hr)
+- [x] Introdução a APIs e métodos HTTP (2 hr)
 
--  Introdução ao framework Spring Boot (2 hr)
+- [x]  Introdução ao framework Spring Boot (2 hr)
 
-- Simplificando Projetos Java com o Spring Boot (3 hr)
+- [x] Simplificando Projetos Java com o Spring Boot (3 hr)
 
-- Introdução aos conceitos de API e Clean Architecture (4 hr)
+- [x] Introdução aos conceitos de API e Clean Architecture (4 hr)
 
-- **Mentoria #4** 12/01/2022: Utilizando Cucumber para testes automatizados com java
+- [x] **Mentoria #4** 12/01/2022: Utilizando Cucumber para testes automatizados com java
 
-- **Mentoria #5** 17/01/2020  : CI / CD (Integração Contínua e Implantação Contínua) (2 hr)
+- [x] **Mentoria #5** 17/01/2020  : CI / CD (Integração Contínua e Implantação Contínua) (2 hr)
 
-- **Desafios Java 2 - Bootcamp Amdocs **
+- [x] **Desafios Java 2 - Bootcamp Amdocs **
 
-- **PROJETO - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot** (6 hr)
+- [x] **PROJETO - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot** (6 hr)
 
   
+
+  ## 🏆  Bootcamp Finalizado
+
+  ![]()
