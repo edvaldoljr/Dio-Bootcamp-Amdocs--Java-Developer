@@ -64,7 +64,7 @@ Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para 
 
 - [x]  Resolvendo Desafios de Código em Java (1hr)
 
-- [x] **Desafios Java 1 - Bootcamp Amdocs 3/3** (1 hr)
+- [x] **[Desafios Java 1](https://github.com/edvaldoljr/Dio-Bootcamp-Amdocs-Java-Developer/tree/master/src/desafios) - Bootcamp Amdocs 3/3** (1 hr)
 
 - [x] **[PROJETO Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/edvaldoljr/Projeto-Dio-Bootcamp-Criando-um-Banco-Digital-com-Java-e-Orienta-o-a-Objetos)** (1 hr)
 
@@ -86,7 +86,7 @@ Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para 
 
 - [x] **Mentoria #5** 17/01/2020  : CI / CD (Integração Contínua e Implantação Contínua) (2 hr)
 
-- [x] **Desafios Java 2 - Bootcamp Amdocs **
+- [x] **[Desafios Java 2](https://github.com/edvaldoljr/Dio-Bootcamp-Amdocs-Java-Developer/tree/master/src/desafios) - Bootcamp Amdocs **
 
 - [x] **PROJETO - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot** (6 hr)
 
