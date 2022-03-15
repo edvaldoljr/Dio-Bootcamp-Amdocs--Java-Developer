@@ -10,7 +10,7 @@ Um repósitório bem simples implementado como desafio prático dentro das ativi
 
 O objetivo do Bootcamp é aprender sobre os principais fundamentos de Java e se aprofundar um pouco mais na Stack Java. São 88 horas de estudo previstas, com data para finalização em 30/01/2022. Ao todos são **5468** devs inscritos e trilhando as atividades. O Bootcamp já está em andamento e não permite novas inscrições, mas se você se interessou pode verificar o site da [DIO](http://dio.me/en) que é uma plataforma de treinamento e recrutamento em Tecnologia da Informação.
 
-Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para treinamento em tecnologias, além de ter acesso a várias oportunidades de formação/recrutamento realizadas em parceria com diversas empresas atuantes no mercado global de TI. Há vários Bootcamps em andamento. Normalmente as empresas parceiras realizam vários Bootcamps intercalados. Assim, em breve, aposto que a [Amdocs](https://www.amdocs.com/) pode vir a lançar mais alguma ação junto à DIO. Se você já atua com TI (não apenas Java), está à procura de oportunidades de trabalho, mas não quer aguardar o próximo treinamento, dê uma olhada no site da [Spread](http://www.spread.com.br/) para vagas abertas no time deles.
+Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para treinamento em tecnologias, além de ter acesso a várias oportunidades de formação/recrutamento realizadas em parceria com diversas empresas atuantes no mercado global de TI. Há vários Bootcamps em andamento. Normalmente as empresas parceiras realizam vários Bootcamps intercalados. Assim, em breve, aposto que a [Amdocs](https://www.amdocs.com/) pode vir a lançar mais alguma ação junto à DIO. Se você já atua com TI (não apenas Java), está à procura de oportunidades de trabalho, mas não quer aguardar o próximo treinamento, dê uma olhada no site da [Amdocs](https://www.amdocs.com/) para vagas abertas no time deles.
 
 ## Sequência de atividades/estudo do Bootcamp:
 
@@ -66,7 +66,7 @@ Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para 
 
 - [x] **Desafios Java 1 - Bootcamp Amdocs 3/3** (1 hr)
 
-- [x] **PROJETO Criando um Banco Digital com Java e Orientação a Objetos** (1 hr)
+- [x] **[PROJETO Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/edvaldoljr/Projeto-Dio-Bootcamp-Criando-um-Banco-Digital-com-Java-e-Orienta-o-a-Objetos)** (1 hr)
 
 - [x]  SQL SERVER - Criando suas primeiras consultas (4 hr)
 
