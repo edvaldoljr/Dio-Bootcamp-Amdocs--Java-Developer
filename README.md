@@ -86,7 +86,7 @@ Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para 
 
 - [x] **Mentoria #5** 17/01/2020  : CI / CD (Integração Contínua e Implantação Contínua) (2 hr)
 
-- [x] **[Desafios Java 2]**(https://github.com/edvaldoljr/Dio-Bootcamp-Amdocs-Java-Developer/tree/master/src/desafios) - Bootcamp Amdocs **
+- [x] **[Desafios Java 2](https://github.com/edvaldoljr/Dio-Bootcamp-Amdocs-Java-Developer/tree/master/src/desafios)** - Bootcamp Amdocs 
 
 - [x] **PROJETO - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot** (6 hr)
 
